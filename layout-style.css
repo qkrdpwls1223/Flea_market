@@ -1,0 +1,10 @@
+/*전체 마진, 패딩 초기화*/
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+/*배경색*/
+body {
+    background-color: lavenderblush;
+    }
